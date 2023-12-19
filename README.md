@@ -1,2 +1,2 @@
 # CSS mini-Project
- A photography wepage using baics HTLM and CSS.
+ A photography wepage using baics HTML and CSS.
