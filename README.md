@@ -1,2 +1,2 @@
 # CSS mini-Project
- A photography wepage using baics HTML and CSS.
+ A photography webpage using basics HTML and CSS.
